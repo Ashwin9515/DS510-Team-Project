@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "truthgen-ai-news-filter",
+  "private_key_id": "1fa5fc5ee0cdd33c865a73eb979802e6cd19ff91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFVYqyG0To4RVZ\n0aGKKEAua5QFguYT618/vkGQoMPKaRBDpNZdCV64VhLlu/GGteXe582GUTXAd5OA\nRcX0VhEAtCU7/ASXXa1Uy104jHhZd8mrrHWRgEtXgHtPzcfuk1XEkb9xJy/k73cr\nNodOqHErSDkQJvx0Lz/YWZ+cch1PROCCX/EW3MLAOMgpMI9T5Vt239YoTfhpRpo9\nl5EB2+KIxYkOQhzwcXnyTSCYt+3QS0MJ8y4TnuVqje5olI8j0lKm7t1krFoy3Jri\nY3QLPnvzB//H5aNq+NS5YBfv5eViwI7BQg4L92sr0evJWqJIlx5VJH9fqkF2dNXG\nQgMuOp0zAgMBAAECggEAATunGbTM6e2aHg0Oxte4ivG2I5CtUluKpVHRhA9VGdst\nNFb/1eX8lwdGp/PULwTM8mcdZCT2woScwdTtxziQc6Ish2LsPmvh7OE2bGeISvrS\nIkX6GBYmol3Vp2qAQM/f3dIRUaouhO4wHu+Aye+IgX46iQzNUAaJjhcFRct6vmeL\ndSZTTilba08DK3dfcXZrTnaHhECJpbwKkb7BnA1yBpZrkxsxxc64k1czwEVtbXDW\ndBlMbD+SeJ/bFbyteb2iiph7n1lORDYCLJDpgkizN2sxH9rqgC6kCHKPmeSElzvg\n+zJGwTvl7p7DLuDTfFtERDNc4jq/IgnCWHyWPBrRsQKBgQDvFeQFHJUXj2O+pH3n\n/7+JPYHNl72z5VEhv/AM9C1a0Mvl//jubWbEwE9FrpLYB+iJn3oL47EMSrD+T8tr\n1REoQtjtCBaDm0+Of0PUePysfpVs+uYCirJrtUnyhNJeXEmfDn7AxicMrFbwBoVW\nuSyjloB26g6xRTxXVFJmFewagwKBgQDTS3yTNtF24wsgWYkjNjn4bpufrPlbKdGl\noqW7L7fbx/NItGiD2BEITVMhktMQ3SmWwnZOizRaaH0onXdsMF2XBfwr2zk+W11L\nyyhUHikd1ldaMe927fChOXpz52g++asAh8dlVajhdLsvP4uct0SUtX7IotmKE0fi\nANNX5VKzkQKBgHmLMmla13yru7R+YTehL5kweJ2xJ5Kd4Ln8nqenNqt1fELH96AW\nY+lgLqypDCPhGVllhqEmtqoeCo6uuCZwohFKsocF1pQ/T5mMn0oT27hBfetyPZ5L\nLltNRXOSDHRGDHNc5hlQYyexMV1Co2SsLMJZT6OkZ6W9IejviBg3ytjLAoGBAJcB\nSs2XDsntZ0U+V/DvTyzKN7Q9FZReZbL/c3w8lSSgWLEsJcmcAEgzoubKnMdfl9pj\nrdNiTw8Rv+jn6LJMOoa1Q0xAhz+WYi3Jyk+bonztc05Fg8M2N5OxlV8CEZF4MwrU\n/t7gAirmluQkgO2GWKACudI/+EJilyvgtSoK/TjRAoGALpPYeEgD3BiPlWkJvoqa\n1Ydao4UHwpUssu2WRf40yB9vO8kBwseXQikNDwEdIUBpPPWCEGc45SxTceW3LPNq\nx+Q4IA2ft8LDldxVES4zLYNEaVzV/uDaTpv4lFwN76XW+4wc7YbqlWlG3TmmM1QD\nazIIPD3/zfCeQcHrNBvncU8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "github-codespaces-access@truthgen-ai-news-filter.iam.gserviceaccount.com",
+  "client_id": "115136063345846323490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/github-codespaces-access%40truthgen-ai-news-filter.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

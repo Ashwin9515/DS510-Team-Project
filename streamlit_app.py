@@ -8,7 +8,7 @@ st.set_page_config(page_title="TruthGen – Corrected News Viewer", layout="wide
 st.title("📰 TruthGen — Corrected News Viewer")
 st.caption("Display the model's predictions and Gemini rewrites (or placeholders)")
 
-DATA_PATH = Path("/mnt/data/outputs/corrections.csv")
+DATA_PATH = Path("/workspaces/DS510-Team-Project/Outputs/corrections.csv")
 
 if not DATA_PATH.exists():
     st.warning("No corrections file found at /mnt/data/outputs/corrections.csv. "
