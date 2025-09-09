@@ -19,7 +19,7 @@ MAX_SHOW     = 2000  # chars to preview from original
 
 # UI Setup
 st.set_page_config(page_title="TruthGen Demo", layout="wide")
-st.title("📰 TruthGen — Live Rewrite + Top 20")
+st.title("📰 TruthGen: AI-Powered Fake News Detection and Correction")
 
 # Backend Status
 ctx = init_rewriter()

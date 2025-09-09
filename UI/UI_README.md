@@ -80,4 +80,4 @@ Abstracts away the details of Gemini model connectivity and provides a unified `
 1. Run the notebook → export `Outputs/corrections.csv`.  
 2. Launch UI:  
    ```bash
-   streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+   python -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
